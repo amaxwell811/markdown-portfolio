@@ -1,1 +1,1 @@
-(LinkedIn)[https://www.linkedin.com/feed/]
+[LinkedIn](https://www.linkedin.com/feed/)
