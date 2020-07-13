@@ -1,0 +1,4 @@
+- November deer hunting
+- September dove hunting
+- March turkey hunting
+- A good gun dog
