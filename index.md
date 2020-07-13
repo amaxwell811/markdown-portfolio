@@ -6,9 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
-
-![Image from Jackson Hole, WY]("C:\Users\admin\Pictures\_MG_1481.jpeg")
+![Image from Cody, WY]("https://cdn.codywyomingnet.com/images/content/2082_e6LTj_Shoshone_Forest_lg.jpg")
 
 
 <br>
