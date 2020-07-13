@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**There is _nothing_ like a pack of happy beagles in an Alabama pine thicket.**
